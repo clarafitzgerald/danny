@@ -1,3 +1,7 @@
+This repo is simply an initialisation of a react app, including prettier & eslint as well as storybook. Also connected to a firebase project also called Danny. This was created in week 5/12 of nology, our first week of learning react.
+
+
+____________________________________________________
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
